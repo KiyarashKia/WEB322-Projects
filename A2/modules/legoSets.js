@@ -17,10 +17,9 @@ let sets = [];
 
 function initialize() {
 setData.forEach(data => {
-    let theme = themeData.find(theme => theme.id === data.theme_id)
-    if(theme) {
-        data.theme = theme.name;
-    }
+    let theme = themeData.find(theme => theme.id === data.theme_id);
+    
+        data.theme = theme?.name;
     sets.push(data);
 });
 
@@ -52,10 +51,13 @@ function getSetByNum(setNum) {
 }
 
 function getSetsByTheme(theme) {
-    console.log(`Filtering sets by theme: ${theme}`);
-    let themeSets = sets.filter((set) => set.theme && set.theme.toLowerCase().includes(theme.toLowerCase()));
     return new Promise((resolve, reject) => {
-        if (themeSets.length) {
+        console.log(`Filtering sets by theme: ${theme}`);
+        const themeSets = sets.filter((set) =>  set?.theme?.toLowerCase().includes(theme?.toLowerCase()));
+        
+        console.log(themeSets);
+        console.log(sets);
+        if (themeSets.length > 0 ) {
             resolve(themeSets);
         } else {
             reject('Unable to find requested sets by theme: ' + theme);
