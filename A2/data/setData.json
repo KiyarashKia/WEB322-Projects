@@ -1,362 +1,370 @@
 [
     {
-        "0": "8",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-2",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Albus Dumbledore",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-2.jpg"
+        "set_num": "71028-18",
+        "name": "Wizarding World of Harry Potter Series 2 - Sealed Box",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-18.jpg"
     },
     {
-        "0": "7",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-3",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Hermione Granger",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-3.jpg"
+        "set_num": "71028-2",
+        "name": "Albus Dumbledore",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-2.jpg"
     },
     {
-        "0": "7",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-4",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Ron Weasley",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-4.jpg"
+        "set_num": "71028-3",
+        "name": "Hermione Granger",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-3.jpg"
     },
     {
-        "0": "7",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-5",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Luna Lovegood",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-5.jpg"
+        "set_num": "71028-4",
+        "name": "Ron Weasley",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-4.jpg"
     },
     {
-        "0": "7",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-6",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Griphook",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-6.jpg"
+        "set_num": "71028-5",
+        "name": "Luna Lovegood",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-5.jpg"
     },
     {
-        "0": "7",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-7",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Lily Potter",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-7.jpg"
+        "set_num": "71028-6",
+        "name": "Griphook",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-6.jpg"
     },
     {
-        "0": "8",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-8",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "James Potter",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-8.jpg"
+        "set_num": "71028-7",
+        "name": "Lily Potter",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-7.jpg"
     },
     {
-        "0": "8",
-        "691": "691",
-        "2020": "2020",
-        "71028-18": "71028-9",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Ginny Weasley",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71028-9.jpg"
+        "set_num": "71028-8",
+        "name": "James Potter",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-8.jpg"
     },
     {
-        "0": "0",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-0",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Series 21 - Random Bag",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-0.jpg"
+        "set_num": "71028-9",
+        "name": "Ginny Weasley",
+        "year": "2020",
+        "theme_id": "691",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71028-9.jpg"
     },
     {
-        "0": "9",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-1",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Paddle Surfer",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-1.jpg"
+        "set_num": "71029-0",
+        "name": "Series 21 - Random Bag",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-0.jpg"
     },
     {
-        "0": "12",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-10",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Space Police Guy",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-10.jpg"
+        "set_num": "71029-1",
+        "name": "Paddle Surfer",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-1.jpg"
     },
     {
-        "0": "6",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-11",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Alien",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-11.jpg"
+        "set_num": "71029-10",
+        "name": "Space Police Guy",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "12",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-10.jpg"
     },
     {
-        "0": "10",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-12",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Cabaret Singer",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-12.jpg"
+        "set_num": "71029-11",
+        "name": "Alien",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "6",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-11.jpg"
     },
     {
-        "0": "0",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-13",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Series 21 - Complete - All Sets",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-13.jpg"
+        "set_num": "71029-12",
+        "name": "Cabaret Singer",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-12.jpg"
     },
     {
-        "0": "7",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-2",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Violin Kid",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-2.jpg"
+        "set_num": "71029-13",
+        "name": "Series 21 - Complete - All Sets",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-13.jpg"
     },
     {
-        "0": "9",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-3",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Shipwreck Survivor",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-3.jpg"
+        "set_num": "71029-2",
+        "name": "Violin Kid",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-2.jpg"
     },
     {
-        "0": "8",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-4",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Ladybug Girl / Ladybird Girl",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-4.jpg"
+        "set_num": "71029-3",
+        "name": "Shipwreck Survivor",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-3.jpg"
     },
     {
-        "0": "6",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-5",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Pug Costume Guy",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-5.jpg"
+        "set_num": "71029-4",
+        "name": "Ladybug Girl / Ladybird Girl",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-4.jpg"
     },
     {
-        "0": "8",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-6",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Centaur Warrior",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-6.jpg"
+        "set_num": "71029-5",
+        "name": "Pug Costume Guy",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "6",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-5.jpg"
     },
     {
-        "0": "8",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-7",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Beekeeper",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-7.jpg"
+        "set_num": "71029-6",
+        "name": "Centaur Warrior",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-6.jpg"
     },
     {
-        "0": "7",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-8",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Ancient Warrior",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-8.jpg"
+        "set_num": "71029-7",
+        "name": "Beekeeper",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-7.jpg"
     },
     {
-        "0": "9",
-        "691": "712",
-        "2020": "2021",
-        "71028-18": "71029-9",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Airplane Girl",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71029-9.jpg"
+        "set_num": "71029-8",
+        "name": "Ancient Warrior",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-8.jpg"
     },
     {
-        "0": "357",
-        "691": "469",
-        "2020": "1983",
-        "71028-18": "710-3",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Universal Building Set",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/710-3.jpg"
+        "set_num": "71029-9",
+        "name": "Airplane Girl",
+        "year": "2021",
+        "theme_id": "712",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71029-9.jpg"
     },
     {
-        "0": "0",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-0",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Looney Tunes - Random Bag",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-0.jpg"
+        "set_num": "710-3",
+        "name": "Universal Building Set",
+        "year": "1983",
+        "theme_id": "469",
+        "num_parts": "357",
+        "img_url": "https://cdn.rebrickable.com/media/sets/710-3.jpg"
     },
     {
-        "0": "5",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-1",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Lola Bunny",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-1.jpg"
+        "set_num": "71030-0",
+        "name": "Looney Tunes - Random Bag",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-0.jpg"
     },
     {
-        "0": "7",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-10",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Marvin the Martian",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-10.jpg"
+        "set_num": "71030-1",
+        "name": "Lola Bunny",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "5",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-1.jpg"
     },
     {
-        "0": "7",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-11",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Petunia Pig",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-11.jpg"
+        "set_num": "71030-10",
+        "name": "Marvin the Martian",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-10.jpg"
     },
     {
-        "0": "8",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-12",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Porky Pig",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-12.jpg"
+        "set_num": "71030-11",
+        "name": "Petunia Pig",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-11.jpg"
     },
     {
-        "0": "0",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-13",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Looney Tunes - Complete - All Sets",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-13.jpg"
+        "set_num": "71030-12",
+        "name": "Porky Pig",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-12.jpg"
     },
     {
-        "0": "0",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-14",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Looney Tunes - Sealed Box",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-14.jpg"
+        "set_num": "71030-13",
+        "name": "Looney Tunes - Complete - All Sets",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-13.jpg"
     },
     {
-        "0": "6",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-2",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Bugs Bunny",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-2.jpg"
+        "set_num": "71030-14",
+        "name": "Looney Tunes - Sealed Box",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-14.jpg"
     },
     {
-        "0": "9",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-3",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Wile E Coyote",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-3.jpg"
+        "set_num": "71030-2",
+        "name": "Bugs Bunny",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "6",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-2.jpg"
     },
     {
-        "0": "9",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-4",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Road Runner",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-4.jpg"
+        "set_num": "71030-3",
+        "name": "Wile E Coyote",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-3.jpg"
     },
     {
-        "0": "10",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-5",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Tweety",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-5.jpg"
+        "set_num": "71030-4",
+        "name": "Road Runner",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-4.jpg"
     },
     {
-        "0": "6",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-6",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Sylvester",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-6.jpg"
+        "set_num": "71030-5",
+        "name": "Tweety",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-5.jpg"
     },
     {
-        "0": "7",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-7",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Daffy Duck",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-7.jpg"
+        "set_num": "71030-6",
+        "name": "Sylvester",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "6",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-6.jpg"
     },
     {
-        "0": "8",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-8",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Speedy Gonzales",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-8.jpg"
+        "set_num": "71030-7",
+        "name": "Daffy Duck",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "7",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-7.jpg"
     },
     {
-        "0": "9",
-        "691": "714",
-        "2020": "2021",
-        "71028-18": "71030-9",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Taz the Tasmanian Devil",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71030-9.jpg"
+        "set_num": "71030-8",
+        "name": "Speedy Gonzales",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "8",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-8.jpg"
     },
     {
-        "0": "82",
-        "691": "158",
-        "2020": "2002",
-        "71028-18": "7103-1",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Jedi Duel",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/7103-1.jpg"
+        "set_num": "71030-9",
+        "name": "Taz the Tasmanian Devil",
+        "year": "2021",
+        "theme_id": "714",
+        "num_parts": "9",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71030-9.jpg"
     },
     {
-        "0": "0",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-0",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Marvel Studios - Random Bag",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-0.jpg"
+        "set_num": "7103-1",
+        "name": "Jedi Duel",
+        "year": "2002",
+        "theme_id": "158",
+        "num_parts": "82",
+        "img_url": "https://cdn.rebrickable.com/media/sets/7103-1.jpg"
     },
     {
-        "0": "10",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-1",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "The Scarlet Witch",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-1.jpg"
+        "set_num": "71031-0",
+        "name": "Marvel Studios - Random Bag",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-0.jpg"
     },
     {
-        "0": "10",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-10",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Captain Carter",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-10.jpg"
+        "set_num": "71031-1",
+        "name": "The Scarlet Witch",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-1.jpg"
     },
     {
-        "0": "10",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-11",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "T'Challa Star-Lord",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-11.jpg"
+        "set_num": "71031-10",
+        "name": "Captain Carter",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-10.jpg"
     },
     {
-        "0": "10",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-12",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Gamora with Blade of Thanos",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-12.jpg"
+        "set_num": "71031-11",
+        "name": "T'Challa Star-Lord",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-11.jpg"
     },
     {
-        "0": "0",
-        "691": "715",
-        "2020": "2021",
-        "71028-18": "71031-13",
-        "Wizarding World of Harry Potter Series 2 - Sealed Box": "Marvel - Complete - All Sets",
-        "https://cdn.rebrickable.com/media/sets/71028-18.jpg": "https://cdn.rebrickable.com/media/sets/71031-13.jpg"
+        "set_num": "71031-12",
+        "name": "Gamora with Blade of Thanos",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "10",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-12.jpg"
+    },
+    {
+        "set_num": "71031-13",
+        "name": "Marvel - Complete - All Sets",
+        "year": "2021",
+        "theme_id": "715",
+        "num_parts": "0",
+        "img_url": "https://cdn.rebrickable.com/media/sets/71031-13.jpg"
     }
 ]

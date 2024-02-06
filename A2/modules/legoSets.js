@@ -19,8 +19,9 @@ function initialize() {
 setData.forEach(data => {
     let theme = themeData.find(theme => theme.id === data.theme_id)
     if(theme) {
-        sets.push(data);
+        data.theme = theme.name;
     }
+    sets.push(data);
 });
 
 return new Promise((resolve, reject) => {
@@ -34,52 +35,56 @@ return new Promise((resolve, reject) => {
 }
 
 function getAllSets() {
-return new Promise((resolve) => {
-    resolve(sets);
-});
+    console.log(`Loading ${sets.length} sets`);
+    return Promise.resolve(sets);
 }
 
 function getSetByNum(setNum) {
-return new Promise((resolve, reject) => {
+    console.log(`Searching for set number: ${setNum}`);
     let set = sets.find(set => set.set_num === setNum);
-    if (set) {
-        resolve(set);
-    } else {
-        reject('Unable to find requested set with set number: ' + setNum);
-    }
-});
+    return new Promise((resolve, reject) => {
+        if (set) {
+            resolve(set);
+        } else {
+            reject('Unable to find requested set with set number: ' + setNum);
+        }
+    });
 }
 
 function getSetsByTheme(theme) {
-return new Promise((resolve, reject) => {
-    let themeSets = sets.filter(set => set.theme && set.theme.toLowerCase().includes(theme.toLowerCase()));
-    if (themeSets.length) {
-        resolve(themeSets);
-    } else {
-        reject('Unable to find sets by theme: ' + theme);
-    }
-});
+    console.log(`Filtering sets by theme: ${theme}`);
+    let themeSets = sets.filter((set) => set.theme && set.theme.toLowerCase().includes(theme.toLowerCase()));
+    return new Promise((resolve, reject) => {
+        if (themeSets.length) {
+            resolve(themeSets);
+        } else {
+            reject('Unable to find requested sets by theme: ' + theme);
+        }
+    });
 }
 
 
-initialize().then(() => {
-    console.log('Initialization successful.');
-
-    getAllSets().then(sets => {
-        console.log(`Total sets loaded: ${sets.length}`);
-    });
 
 
-    getSetsByTheme('Technic').then(technicSets => {
-        console.log(`Found ${technicSets.length} Technic sets.`);
-    }).catch(console.error);
+//Invoking 
+// initialize().then(() => {
+//     console.log('Initialization successful.');
+
+//     getAllSets().then(sets => {
+//         console.log(`Total sets loaded: ${sets.length}`);
+//     });
+
+
+//     getSetsByTheme('Harry Potter and Fantastic Beasts Series 2').then(harrySets => {
+//         console.log(`Found ${harrySets.length} Harry Potter and Fantastic Beasts Series 2 sets.`);
+//     }).catch(console.error);
 
  
-    getSetByNum('001-1').then(set => {
-        console.log('Found set by number:', set);
-    }).catch(console.error);
-}).catch(console.error);
+//     getSetByNum('71028-2').then(set => {
+//         console.log('Found set by number:', set);
+//     }).catch(console.error);
+// })
 
 
 
-//module.exports = { initialize, getAllSets, getSetByNum, getSetsByTheme }
+module.exports = { initialize, getAllSets, getSetByNum, getSetsByTheme }
