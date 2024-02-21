@@ -51,18 +51,18 @@ function getSetByNum(setNum) {
 }
 
 function getSetsByTheme(theme) {
+    console.log(`Filtering sets by theme: ${theme}`);
+    let themeSets = sets.filter((set) => set.theme.toLowerCase().includes(theme.toLowerCase()));
+    console.log(themeSets);
     return new Promise((resolve, reject) => {
-        console.log(`Filtering sets by theme: ${theme}`);
-        const themeSets = sets.filter((set) =>  set?.theme?.toLowerCase().includes(theme?.toLowerCase()));
-        
-        console.log(themeSets);
-        console.log(sets);
-        if (themeSets.length > 0 ) {
+
+        if (themeSets) {
             resolve(themeSets);
         } else {
             reject('Unable to find requested sets by theme: ' + theme);
         }
     });
+
 }
 
 

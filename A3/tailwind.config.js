@@ -1,18 +1,27 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [`./views/**/*.html`],
+  plugins: [ require('tailwindcss-filters'), require('@tailwindcss/typography'), require('daisyui')],
   theme: {
     extend: {
+      backdropFilter: {
+        'none': 'none',
+        'sm': 'blur(4px)',
+        'md': 'blur(8px)',
+        'lg': 'blur(16px)',
+        'xl': 'blur(20px)', 
+      },
       colors: {
         'gray-custom': '#EBEBEB'
       },
+      
     },
     
   },
   daisyui: {
     themes: ["emerald","dim"],
   },
-  plugins: [require('@tailwindcss/typography'), require('daisyui')],
+  
   
   darkMode: 'class',
   theme: {
