@@ -2,46 +2,57 @@ const legoData = require("./modules/legoSets");
 
 
 const express = require('express');
+const path = require('path');
 const app = express();
 const HTTP_PORT = process.env.PORT || 4002;
 
 
 app.get('/', (req, res) => {
-    res.send('Assignment 2:  Kiarash Kia - 108688235');
+  res.sendFile(path.join(__dirname, '/views/home.html'));
+  });
+
+  app.get('/about', (req, res) => {
+    res.sendFile(path.join(__dirname, '/views/about.html'));
   });
 
 app.get('/lego/sets', (req, res) => {
+  console.log(req.query.theme);
+  if (req.query.theme){
+    legoData.getSetsByTheme(req.query.theme)
+    .then(themeSets => {
+      res.send(themeSets);
+    })
+    .catch(error => {
+        console.error(error);
+        res.status(404).sendFile(path.join(__dirname, '/views/404.html'));
+    });
+  }
+  else {
     legoData.getAllSets()
     .then(sets => {
         res.send(sets);
     })
     .catch(error => {
         console.error(error);
-        res.status(500).send("Internal Server Error,");
+        res.status(404).sendFile(path.join(__dirname, '/views/404.html'));
     });
-  });
+  }
+});
 
-app.get('/lego/sets/num-demo', (req, res) => {
-    legoData.getSetByNum('71028-2')
-    .then(set => {
-      res.send(set);
-    })
-    .catch(error => {
-        console.error(error);
-        res.status(500).send("Internal Server Error");
-    });
+app.get('/lego/sets/:set_num', (req, res) => {
+  legoData.getSetByNum(req.params.set_num)
+  .then(set => {
+    res.send(set);
+  })
+  .catch(error => {
+      console.error(error);
+      res.status(404).sendFile(path.join(__dirname, '/views/404.html'));
   });
+});
 
-app.get('/lego/sets/theme-demo', (req, res) => {
-    legoData.getSetsByTheme('min')
-    .then(data => {
-      res.send(data);
-    })
-    .catch(error => {
-        console.error(error);
-        res.status(500).send("Internal Server Error");
-    });
-  });
+app.all('*', (req, res) => { 
+  res.status(404).sendFile(path.join(__dirname, '/views/404.html')); 
+}); 
 
 
   app.listen(HTTP_PORT, () => {
